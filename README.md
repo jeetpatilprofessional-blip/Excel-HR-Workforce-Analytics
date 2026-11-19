@@ -1,5 +1,9 @@
 # HR Workforce Analytics Dashboard | Microsoft Excel
 
+## Dashboard Preview
+
+![Dashboard](HR%20Dashboard.png)
+
 ## Project Overview
 
 This project focuses on analysing workforce data and developing an interactive HR Workforce Analytics Dashboard using Microsoft Excel.
